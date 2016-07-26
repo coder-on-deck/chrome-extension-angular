@@ -1,0 +1,13 @@
+{
+  "name": "chrome-extension-angular",
+  "version": "0.0.0",
+  "dependencies": {
+    "standard": "^7.1.2"
+  },
+  "standard" : {
+    "globals" : ["chrome","angular"]
+  },
+  "scripts": {
+    "test": "standard"
+  }
+}
